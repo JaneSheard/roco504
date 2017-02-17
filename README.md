@@ -7,3 +7,5 @@ Soft Robotic Snake, with variable stiffness, for search and rescue applications
 3D printed snake design, with rigid ribs and a flexible spine using NinjaFlex
 
 ROS for wifi communication between an operator PC and an onboard Raspberry Pi, with camera.
+
+YouTube Account: https://www.youtube.com/channel/UC-NMGpYUNjFGybRwE0-Zjaw 
